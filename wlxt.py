@@ -1,3 +1,7 @@
+__author__ = "Trinkle23897"
+__copyright__ = "Copyright (C) 2019 Trinkle23897"
+__license__ = "MIT"
+
 import urllib,time,json,operator
 import urllib.request, http.cookiejar
 
